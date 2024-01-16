@@ -2,11 +2,10 @@
 Appunti per un approccio pragmatico alla nota libreria per la programmazione funzionale in Typescript.
 
 
-Agenda:
+Indice:
 * [`fp-ts`: cos’è e perché usarla](#fp-ts-cosè-e-perché-usarla)
 * [Tipi e operazioni essenziali](#tipi-ed-operazioni-essenziali)
 * [Un caso reale: costruiamo un http endpoint](#un-caso-reale-costruiamo-un-http-endpoint)
-* [Conclusioni e Q&A](#conclusioni-e-qa)
 
 <details>
   <summary>Istruzioni</summary>
@@ -507,6 +506,3 @@ export default (input: unknown): Promise<EndpointResponse> =>
     TE.toUnion
   )();
 ```
-
-## Conclusioni e Q&A
-[Vedi slides](docs/slides.pptx)
