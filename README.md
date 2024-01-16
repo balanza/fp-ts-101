@@ -1,6 +1,5 @@
-Code Sample supporting our workshop at [Codemotion Workshop Fest 2022](https://events.codemotion.com/conferences/online/2022/workshop-fest).
-
-# `fp-ts`: l’approccio pragmatico usato da App IO
+# `fp-ts` 1O1
+Appunti per un approccio pragmatico alla nota libreria per la programmazione funzionale in Typescript.
 
 
 Agenda:
@@ -11,7 +10,7 @@ Agenda:
 
 <details>
   <summary>Istruzioni</summary>
-  Gli esempi sono pensati per funzionare con Node.js 14. Per installare le dipendenze si può usare sia `npm` che `yarn`
+  Gli esempi sono pensati per funzionare con Node.js . Per installare le dipendenze si può usare sia `npm` che `yarn`
   
   ```bash
   npm ci
